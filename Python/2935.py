@@ -1,0 +1,1 @@
+a=input;print(eval("".join([a(),a(),a()])))
